@@ -1,0 +1,244 @@
+Error time:
+2024-04-03 20:27:55.575842
+Parsing error in row with index: 187
+
+Error time:
+2024-04-03 20:27:56.752992
+Parsing error in row with index: 2526
+
+Error time:
+2024-04-03 20:27:58.282653
+Parsing error in row with index: 7741
+
+Error time:
+2024-04-03 20:28:00.388839
+Parsing error in row with index: 14811
+
+Error time:
+2024-04-03 20:28:00.438840
+Parsing error in row with index: 15073
+
+Error time:
+2024-04-03 20:28:00.610494
+Parsing error in row with index: 15662
+
+Error time:
+2024-04-03 20:28:00.623492
+Parsing error in row with index: 15714
+
+Error time:
+2024-04-03 20:28:00.630490
+Parsing error in row with index: 15743
+
+Error time:
+2024-04-03 20:28:00.641504
+Error: No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type float
+Invalid SMILES in row 15792
+
+Error time:
+2024-04-03 20:28:00.663775
+Parsing error in row with index: 15855
+
+Error time:
+2024-04-03 20:28:00.675775
+Parsing error in row with index: 15919
+
+Error time:
+2024-04-03 20:28:00.685775
+Parsing error in row with index: 15978
+
+Error time:
+2024-04-03 20:28:00.692775
+Parsing error in row with index: 16005
+
+Error time:
+2024-04-03 20:28:00.701769
+Parsing error in row with index: 16027
+
+Error time:
+2024-04-03 20:28:00.725769
+Parsing error in row with index: 16078
+
+Error time:
+2024-04-03 22:02:33.768507
+Parsing error in row with index: 187
+
+Error time:
+2024-04-03 22:02:34.916693
+Parsing error in row with index: 2526
+
+Error time:
+2024-04-03 22:02:36.662541
+Parsing error in row with index: 7741
+
+Error time:
+2024-04-03 22:02:39.514388
+Parsing error in row with index: 14811
+
+Error time:
+2024-04-03 22:02:39.641522
+Parsing error in row with index: 15073
+
+Error time:
+2024-04-03 22:02:39.955823
+Parsing error in row with index: 15662
+
+Error time:
+2024-04-03 22:02:39.980819
+Parsing error in row with index: 15714
+
+Error time:
+2024-04-03 22:02:39.999826
+Parsing error in row with index: 15743
+
+Error time:
+2024-04-03 22:02:40.022824
+Error: No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type float
+Invalid SMILES in row 15792
+
+Error time:
+2024-04-03 22:02:40.052368
+Parsing error in row with index: 15855
+
+Error time:
+2024-04-03 22:02:40.090379
+Parsing error in row with index: 15919
+
+Error time:
+2024-04-03 22:02:40.118370
+Parsing error in row with index: 15978
+
+Error time:
+2024-04-03 22:02:40.136402
+Parsing error in row with index: 16005
+
+Error time:
+2024-04-03 22:02:40.148941
+Parsing error in row with index: 16027
+
+Error time:
+2024-04-03 22:02:40.175958
+Parsing error in row with index: 16078
+
+Error time:
+2024-04-03 22:04:00.848282
+Parsing error in row with index: 187
+
+Error time:
+2024-04-03 22:04:01.761081
+Parsing error in row with index: 2526
+
+Error time:
+2024-04-03 22:04:03.015923
+Parsing error in row with index: 7741
+
+Error time:
+2024-04-03 22:04:04.842179
+Parsing error in row with index: 14811
+
+Error time:
+2024-04-03 22:04:04.910739
+Parsing error in row with index: 15073
+
+Error time:
+2024-04-03 22:04:05.119809
+Parsing error in row with index: 15662
+
+Error time:
+2024-04-03 22:04:05.132816
+Parsing error in row with index: 15714
+
+Error time:
+2024-04-03 22:04:05.138824
+Parsing error in row with index: 15743
+
+Error time:
+2024-04-03 22:04:05.150824
+Error: No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type float
+Invalid SMILES in row 15792
+
+Error time:
+2024-04-03 22:04:05.166815
+Parsing error in row with index: 15855
+
+Error time:
+2024-04-03 22:04:05.184899
+Parsing error in row with index: 15919
+
+Error time:
+2024-04-03 22:04:05.201466
+Parsing error in row with index: 15978
+
+Error time:
+2024-04-03 22:04:05.210010
+Parsing error in row with index: 16005
+
+Error time:
+2024-04-03 22:04:05.217010
+Parsing error in row with index: 16027
+
+Error time:
+2024-04-03 22:04:05.228008
+Parsing error in row with index: 16078
+
+Error time:
+2024-04-03 22:05:48.998622
+Parsing error in row with index: 187
+
+Error time:
+2024-04-03 22:05:50.292508
+Parsing error in row with index: 2526
+
+Error time:
+2024-04-03 22:05:51.199595
+Parsing error in row with index: 7741
+
+Error time:
+2024-04-03 22:05:53.872713
+Parsing error in row with index: 14811
+
+Error time:
+2024-04-03 22:05:53.996343
+Parsing error in row with index: 15073
+
+Error time:
+2024-04-03 22:05:54.306543
+Parsing error in row with index: 15662
+
+Error time:
+2024-04-03 22:05:54.327542
+Parsing error in row with index: 15714
+
+Error time:
+2024-04-03 22:05:54.348551
+Parsing error in row with index: 15743
+
+Error time:
+2024-04-03 22:05:54.378565
+Error: No registered converter was able to produce a C++ rvalue of type class std::basic_string<wchar_t,struct std::char_traits<wchar_t>,class std::allocator<wchar_t> > from this Python object of type float
+Invalid SMILES in row 15792
+
+Error time:
+2024-04-03 22:05:54.415134
+Parsing error in row with index: 15855
+
+Error time:
+2024-04-03 22:05:54.447133
+Parsing error in row with index: 15919
+
+Error time:
+2024-04-03 22:05:54.470263
+Parsing error in row with index: 15978
+
+Error time:
+2024-04-03 22:05:54.483411
+Parsing error in row with index: 16005
+
+Error time:
+2024-04-03 22:05:54.491425
+Parsing error in row with index: 16027
+
+Error time:
+2024-04-03 22:05:54.506997
+Parsing error in row with index: 16078
+

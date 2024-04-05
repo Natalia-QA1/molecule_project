@@ -1,0 +1,7 @@
+Molecule Name,ABC,SMILES
+D-0011822,ABC-2436044,Clc1ccc2Oc3c([C@@H]4CN(C)C[C@H]4c2c1)cccc3.O=C(/C=C\C(O)=O)O
+D-0011823,ABC-2436045,S(C)(O)(=O)=O.O(C(c1ccccc1)c1ccccc1)[C@H]1C[C@@H]2N(C)[C@@H](CC2)C1
+D-0011829,ABC-2436051,Brc1cc2c(cc(cc2)C(=O)c2c(Cl)cccc2)cc1
+D-0011830,ABC-2436052,Brc1c(C)cc(C(Cl)=O)cc1
+D-0011832,ABC-2436054,FC(F)(F)c1cc(C=O)ccc1O
+D-0011832,test,FC(F)(F)c1cc(C=O)ccc1O
